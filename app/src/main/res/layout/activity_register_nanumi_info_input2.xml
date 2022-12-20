@@ -255,7 +255,7 @@
             android:fontFamily="@font/roboto_bold"/>
 
         <EditText
-            android:text="서울특별시 종로구 낙원동 256"
+            android:text="중구 청계천로 100"
             android:id="@+id/nanumer_info_Input2_LoveAdd_et"
             android:layout_width="match_parent"
             android:layout_height="35dp"
